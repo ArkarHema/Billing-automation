@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630119349927",
+    "project_id": "billauto-bb624",
+    "storage_bucket": "billauto-bb624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630119349927:android:cd361685337447ef9ae582",
+        "android_client_info": {
+          "package_name": "com.example.bill_automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630119349927-b6pe9gsgn35rtqab3fo0j8vq30b7ugu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDNKfBOxYL34SGfpiKCdD8bVo8A5qmho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630119349927-b6pe9gsgn35rtqab3fo0j8vq30b7ugu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
